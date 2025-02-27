@@ -41,7 +41,7 @@ Some 3D studies on equivalent hydraulic conductivity are available, but most pre
 </ul>
 In particular, a multi-gaussian media modified such as HCS mimics tortuous channels of high flow velocity, while a LCS type simulates flow barriers that could be observed in natural media.
 
-In [**Fig. 2a, 2b, 3a & 3b**](https://gitlab.com/XxkmoxX/connectivity/-/blob/main/0_connect_map.ipynb?ref_type=heads) you can see examples of one realization of the Y-maps for the different connectivity structures: NS, ICS, HCS and LCS for (2a, 2d) 2D and (3a, 3b) 3D. In 2D case a zoom is also shown to give a visual idea of the type and texture of media structure.
+In [**Fig. 2a, 2b, 3a & 3b**](https://github.com/XxkmoxX/connectivity_paper/blob/main/0_connect_map.ipynb) you can see examples of one realization of the Y-maps for the different connectivity structures: NS, ICS, HCS and LCS for (2a, 2d) 2D and (3a, 3b) 3D. In 2D case a zoom is also shown to give a visual idea of the type and texture of media structure.
 
 ## __4 - Results__
 
